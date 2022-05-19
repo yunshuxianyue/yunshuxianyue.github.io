@@ -11,13 +11,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小南鸢
-
-浏览量超 10,000,000+
-
-线上版本:https://xingye.me/game/eatkano/index.php
-
-Github Page:https://arcxingye.github.io/EatKano/index.html
+小游戏：吃掉小福禾
 
 ## 可选功能
 
